@@ -1,6 +1,6 @@
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dozzap&" alt="dozzap" /></p>
+[<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dozzap&" alt="dozzap" /></p>
 ](url)
-[<p align="left"> <img src="https://komarev.com/ghpvc/?username=dozzap&label=Profile%20views&color=0e75b6&style=flat" alt="dozzap" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dozzap&label=Profile%20views&color=0e75b6&style=flat" alt="dozzap" /> </p>
 
 - 🔭 I’m currently working on [Excel Writer](https://github.com/Dozzap/Excel_writer)
 
