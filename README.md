@@ -1,6 +1,4 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dozzap&label=Profile%20views&color=0e75b6&style=flat" alt="dozzap" /> </p>
-
 - 🔭 I’m currently working on [Excel Writer](https://github.com/Dozzap/Excel_writer)
 
 - 🌱 I’m currently learning **React, MongoDB, Vue**
