@@ -1,7 +1,5 @@
 
-- 🔭 I’m currently working on Personal Project
 
-- 🌱 I’m currently learning **Computer Vision**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
